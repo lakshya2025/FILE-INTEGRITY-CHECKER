@@ -48,3 +48,4 @@ Understanding the fundamental concepts of data integrity and security.
 This File Integrity Checker project, developed in VS Code, provides a valuable hands-on experience in building a practical security-focused tool using Python. It emphasizes the importance of data integrity and introduces fundamental techniques for its verification. Good luck with your development! Let me know if you have any specific aspects you'd like to elaborate on or any challenges you encounter along the way.
 
 **OUTPUT**
+![Image](https://github.com/user-attachments/assets/c90ab2bd-bd8f-4dbf-abab-22f47f46fa9b)
